@@ -33,6 +33,7 @@ public class Datatypes {
         //char example (Unicode value of A is '\u0041')
         char letter = '\u0041';
         System.out.println(letter);
+        
 
     }
 }
