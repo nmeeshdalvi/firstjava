@@ -5,5 +5,5 @@ public class Module {
         System.out.print("Enter two  number to find the modulus: ");
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
-        i
+}
 }
